@@ -1,0 +1,11 @@
+$mainColor: #DCD7D7;
+$padding: 14px;
+ 
+body {
+    background: $mainColor;
+}
+ 
+header {
+    padding: $padding / 2;
+    border: 2px solid $mainColor;
+}
